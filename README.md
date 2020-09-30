@@ -9,7 +9,7 @@ A blog application made using Django.Using this application a User can create an
 * To run the application enter the project directory and enter the command :~
 `python manage.py runserver`
 
-* To create a fresh database remove the database file and the migrations and run commands:~ 
+* To create a new database remove the database file and the migrations and run commands:~ 
 `python manage.py makemigrations` 
 `python manage.py migrate`
 
